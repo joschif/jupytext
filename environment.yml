@@ -19,6 +19,7 @@ dependencies:
   - pre-commit
   - pylint
   - flake8
+  - autoflake
   - black
   - isort
   - autopep8
